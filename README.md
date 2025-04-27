@@ -1,4 +1,4 @@
-📁 Insurance Charges Prediction
+## 📁 Insurance Charges Prediction
 This project was designed to estimate insurance costs for individuals based on their age, body mass index (BMI), number of children, smoking and region.
 
 📄 Data Set Used
