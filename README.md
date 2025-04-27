@@ -1,33 +1,33 @@
-## 📁 Insurance Charges Prediction
+# 📁 Insurance Charges Prediction
 This project was designed to estimate insurance costs for individuals based on their age, body mass index (BMI), number of children, smoking and region.
 
-📄 Data Set Used
+##📄 Data Set Used
 The data set used in this project is insurance.csv file.
 It contains insurance rates of individuals by age, gender, BMI, smoking, number of children and region
 
-📋 Project Structure
+##📋 Project Structure
 Data Analysis (EDA):
 Examining and visualizing the overall structure of the data set.
 
-Data Preprocessing:
+##Data Preprocessing:
 Checking for missing data, finding outliers, scaling the data and coding categorical data.
 
-Modeling:
+##Modeling:
 Different regression models were created:
 * Linear Regression
 * Ridge Regression
 * Lasso Regression
 * Polynomial Regression
 
-Model Evaluation:
+##Model Evaluation:
 The performance of the models was compared with the following metrics:
 R² Score
 Mean Square Error (MSE)
 
-Hyperparameter Optimization:
+##Hyperparameter Optimization:
 The best model settings were found using GridSearchCV and cross-validation methods.
 
-🔧 Technologies Used
+##🔧 Technologies Used
 * Python 
 * Pandas
 * NumPy
@@ -36,7 +36,7 @@ The best model settings were found using GridSearchCV and cross-validation metho
 * Scikit-learn
 * Scipy
 
-📊 Example Visualizations
+##📊 Example Visualizations
 * Correlation Analysis
   ![Correlation](images/correlation.png)
 * Actual Values vs Predicted Values
