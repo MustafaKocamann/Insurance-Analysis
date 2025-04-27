@@ -36,15 +36,7 @@ The best model settings were found using GridSearchCV and cross-validation metho
 * Scikit-learn
 * Scipy
 
-## 📊 Example Visualizations
-* Correlation Analysis
-  ![Correlation](images/correlation.png)
-* Actual Values vs Predicted Values
-  ![Actual vs Predicted](images/actual-values-vs-predicted-values.png)
-* Feature Importance
-  ![Feature Importance](images/feature-importance.png)
-* Error Distribution
-  ![Error Distribution](images/error-distribution.png)
+
 
 
   
